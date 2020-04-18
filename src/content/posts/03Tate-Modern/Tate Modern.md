@@ -7,5 +7,6 @@ coverImage: featured.jpg
 subtitleCaption: "Subtitle Test"
 tags: [vim-labs]
 ---
+yes
 
-Your first peice of work.
+

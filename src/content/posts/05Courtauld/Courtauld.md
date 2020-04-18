@@ -1,6 +1,6 @@
 ---
-id: "cortauld"
-title: "Cortauld"
+id: "courtauld"
+title: "Courtauld"
 author: obains
 featuredImage: Cortauld.jpg
 coverImage: featured.jpg

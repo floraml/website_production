@@ -10,7 +10,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby-theme-flora-website": "^2.2.2",
+    "gatsby-theme-flora-website": "^2.2.3",
     "gatsby": "^2.20.10",
     "gatsby-plugin-manifest": "^2.2.29",
     "react": "^16.11.0",
