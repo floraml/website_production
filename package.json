@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-theme-flora-website-starter",
+  "version": "1.1.0",
+  "main": "index.js",
+  "author": "Oliver Bains @obains",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby-theme-flora-website": "^2.2.2",
+    "gatsby": "^2.20.10",
+    "gatsby-plugin-manifest": "^2.2.29",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "styled-components": "^4.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obains/flora-website-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/obains/flora-website-starter/issues"
+  },
+  "homepage": "https://github.com/obains/flora-website-starterr#readme"
+}
