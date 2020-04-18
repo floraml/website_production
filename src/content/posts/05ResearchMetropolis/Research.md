@@ -3,7 +3,7 @@ id: "metropolis"
 title: "Metropolis - in the archives"
 author: obains
 featuredImage: essays.jpeg
-coverImage: essays.jpeg
+coverImage: metropoliscover.jpg
 subtitleCaption: "Research"
 tags: ["Research: buildings"]
 ---
