@@ -3,7 +3,7 @@ id: "tate"
 title: "Tours of the Tate Modern"
 author: obains
 featuredImage: tate_modern.png
-coverImage: featured.jpg
+coverImage: header.jpeg
 subtitleCaption: "Gallery Tours"
 tags: [Tate Modern, Gallery Tours]
 ---

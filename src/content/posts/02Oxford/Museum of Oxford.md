@@ -3,7 +3,7 @@ id: "oxford"
 title: "Museum of Oxford"
 author: obains
 featuredImage: oxford_tall.jpeg 
-coverImage: featured.jpg
+coverImage: Oxford.jpg
 subtitleCaption: "Subtitle Test"
 tags: [Museum Redevelopment Projects]
 ---

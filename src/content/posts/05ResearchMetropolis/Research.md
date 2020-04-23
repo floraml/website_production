@@ -10,7 +10,8 @@ tags: ["Research: buildings"]
 During a trip to Berlin in January 2019, I visited the Graphics Archive of the *Deutsche Kinomathek* to view film architect Erich Kettelhut’s drawings for Fritz Lang’s 1927 film *Metropolis*. Located in the suburbs of Berlin in a large warehouse, the Graphics Archive is home to tens of thousands of drawings relating to costume and set design; the stores contain over 25,000 film posters, storyboards, frames from animated films, and caricatures from film and television series, including Achim von Borries' 2017 series *Babylon Berlin*.
 
 <img src="https://raw.githubusercontent.com/floraml/filehosting/master/metropolis/metropolis1.png" width="300"/>
-<br></br>Photo: Graphics Archive, Deutsche Kinomathek
+<br></br>
+<sub>Photo: Graphics Archive, Deutsche Kinomathek</sub>
  
 
 I first studied the iconic silent film *Metropolis* as part of my undergraduate degree in German, before revisiting it during my MA studies at the Courtauld Institute of Art – this time from an art historical perspective. Whilst the rhythmic sequences and expressive gestures in *Metropolis* had caught my attention initially, my focus later shifted to the highly detailed architectural film sets, which present a strange combination of futuristic vision and 1920s urban reality. Learning in my MA course about the modern architectural fabric of sprawling 1920s Berlin and the new age of innovation in Weimar film, inspired me to further explore the deeper, inextricable ties between the real Weimar city and the perceptual city depicted in the Upper World of *Metropolis*.
@@ -19,13 +20,12 @@ Many of the architectural spaces depicted in the film originated from a series o
 
 <img src="https://github.com/floraml/filehosting/raw/master/metropolis/metropolis2.JPG" width="300"/>
 <br></br>
-Erich Kettelhut, <i> Stadt von oben mit Turm Babel</i>
+<sub>Erich Kettelhut, <i> Stadt von oben mit Turm Babel</i></sub>
 <br></br>
 <br></br>
 <img src="https://github.com/floraml/filehosting/raw/master/metropolis/metropolis3.jpeg" width="300"/>
 <br></br>
-Erich Kettelhut, <i> Stadt der Söhne</i>
-
+<sub>Erich Kettelhut, <i> Stadt der Söhne</i></sub>
 
 Although the Erich Kettelhut drawing collection in the Graphics Archive is not yet digitalised, I was fortunately able to view and handle a selection of his original works. I thoroughly enjoyed working closely with this original material, which offered a unique opportunity to unlock the hidden processes behind the making of *Metropolis*, through finding clues in scribbled annotations, amendments and margin notes.
 
@@ -36,7 +36,7 @@ Furthermore, drawings by Kettelhut that had become almost photographic on-screen
 
 <img src="https://github.com/floraml/filehosting/raw/master/metropolis/metropolis5.png" width="300"/>
 <br></br>
-Erich Kettelhut, <i> Das Bad</i>
+<sub>Erich Kettelhut, <i> Das Bad</i></sub>
 
 
 After viewing Kettelhut’s extraordinary drawings, I understood more clearly how these works lent themselves so well to the indeterminable combination of reality and fantasy seen in the architectural film sets of *Metropolis*. To read about this topic in greater detail, please see my paper [‘Film Architecture, Utopia and Urban Vision in *Metropolis* by Fritz Lang, 1927’](https://github.com/floraml/filehosting/raw/master/Film%20Architecture%2C%20Utopia%20and%20Urban%20Vision.pdf "Download") by clicking on the link.
