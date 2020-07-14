@@ -3,7 +3,7 @@ module.exports = {
     title: `Flora Loughridge`, // this dictates the title button (top left)
     subtitle: `FLORA LOUGHRIDGE`, // this dictates the subtitle / headline on the home page
     siteUrl: `https://FloraLoughridge.com`,
-    description: `Welcome to my page, here you can learn about me and what I do.`,
+    description: ``,
     components: {
       appbar: {
         position: "sticky",

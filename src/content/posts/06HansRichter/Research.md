@@ -46,3 +46,6 @@ In an archival storage unit, located one hour outside of Florida, there are over
 <br></br>
 <sub>Figure 1 Hans Richter, Opera Grafica dal 1902 a 1969, published by La Nuova Foglio, Bologna, 1976.
 Double page spreads from Opera Grafica dal 1902 a 1969 (Photo: abebooks.co.uk)</sub>
+
+<br/>
+<br/>
