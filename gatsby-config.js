@@ -9,7 +9,7 @@ module.exports = {
         position: "sticky",
         links: [
           {
-            title: "About Me",
+            title: "About",
             url: "/aboutme"
           },
           {

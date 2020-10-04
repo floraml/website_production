@@ -19,5 +19,10 @@ export default createMuiTheme({
     success: {
       main: "#28a745"
     }
-  }
+  },
+  typography: {
+    fontFamily: [
+      '"Mulish"',
+    ].join(','),
+  },
 });

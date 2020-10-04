@@ -1,6 +1,6 @@
 ---
 id: "aboutme"
-title: "About Me"
+title: "About"
 featuredImage: essays.jpeg
 tags: []
 ---
@@ -12,3 +12,5 @@ She graduated from Durham University in 2017 with an undergraduate degree in Ger
 Flora joined Ideal Spaces Working Group in 2019, driven by her strong research interest in modern architecture, utopian constructs and the complex relationship between people and space. She has developed innovative research ideas and a creative marketing strategy, whilst also contributing to the 2020 group exhibition on ‘Community and Place’ at the Schusev State Museum of Architecture, Moscow. 
 
 Since 2020, Flora has been an official gallery guide at Tate Modern, London, developing inclusive public tours that focus on the sensory experience of art.
+
+<img src="https://github.com/floraml/filehosting/blob/master/headshot.png?raw=true" height="300"/>
