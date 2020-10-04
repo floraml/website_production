@@ -1,6 +1,6 @@
 ---
 id: "presenting-hansrichter"
-title: "Presenting on Hans Richter: Film and Abstraction"
+title: "Presenting Hans Richter: Film and Abstraction"
 author: obains
 featuredImage: research.jpeg
 coverImage: research.jpeg
