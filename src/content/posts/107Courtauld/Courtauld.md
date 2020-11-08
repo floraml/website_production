@@ -5,7 +5,7 @@ author: obains
 featuredImage: Cortauld.jpg
 coverImage: Cortauld.jpg
 subtitleCaption: "Collaborating on Phase 2: the Courtauld Institute of Art"
-tags: [development] [projects]
+tags: ["development,projects"]
 ---
 ## Courtauld Connects
 
