@@ -12,7 +12,7 @@ tags: ["Tate Gallery"]
 
 ### Tracey Emin, *My Bed*, 1998
 
-<img src="https://github.com/floraml/filehosting/blob/master/tate/06.png?raw=true" width="640"/>
+<img src="https://github.com/floraml/filehosting/blob/master/tate/06.png?raw=true" height="500"/>
 
 <br/>
 
