@@ -3,7 +3,7 @@ id: "podcast"
 title: "The Ideal Spaces Podcast"
 author: obains
 featuredImage: idealspacespic.jpg
-coverImage: idealspacespic.jpg
+coverImage: header image.jpg
 subtitleCaption: "The Ideal Spaces Podcast"
 tags: ["Ideal Spaces,podcast"]
 ---
