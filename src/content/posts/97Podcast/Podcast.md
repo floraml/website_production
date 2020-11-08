@@ -1,6 +1,6 @@
 ---
 id: "podcast"
-title: ""
+title: "The Ideal Spaces Podcast"
 author: obains
 featuredImage: header.jpeg
 coverImage: header.jpeg
