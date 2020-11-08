@@ -54,7 +54,7 @@ Critics have even suggested that _A Bar at the Folies-Bergère_ represents the �
 <sub>Jules Chéret, Folies-Bergère, La Loie Fuller (Loie Fuller at the Folies-Bergère), 1893</sub>
 
 
-### Consumed or Consumer?
+### Consumer or Consumed?
 
 When _A Bar at the Folies-Bergère_ was first exhibited at the Salon in 1882, it would have been considered an incredibly modern work. Despite the large size of the painting, measuring 96 cm by 1.3m, it does not depict anyone of particular importance – just a humble barmaid. We now know that this barmaid was called Suzon, and that she was working at the Folies-Bergère when she posed for Manet in his studio, where he set up a similar-style bar counter for his model to pose behind.
 
