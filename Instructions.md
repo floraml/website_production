@@ -15,7 +15,7 @@ git pull
 
 Write articles etc 
 
-Go to Terminal
+If you make changes, go to Terminal
 Type in:
 
 --
