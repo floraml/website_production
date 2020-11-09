@@ -9,7 +9,7 @@ tags: ["development,projects"]
 ---
 ## Courtauld Connects
 
-### Collaborating on Phase 2: the Courtauld Institute of Art
+### Collaborating on Phase 2: developing the Courtauld Institute of Art
 
 Courtauld Connects is a multi-million-pound two-phase development that will transform the Courtauld Gallery (Phase 1), and teaching, learning and social spaces at the Courtauld Institute of Art, Somerset House (Phase 2). The project will make The Courtauld’s artworks, research and teaching accessible to more people – in the UK and internationally.
 

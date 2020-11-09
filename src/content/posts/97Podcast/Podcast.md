@@ -19,7 +19,8 @@ In the first podcast episode, Ulrich, Michael and I explore the question ‘What
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-09%20at%2009.32.36.png?raw=true" width="600"/>
 <br/>
 <sub>Contribitors to this episode are Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
-<br></br>
+<br/>
+<br/>
 
 ### Episode Two – Managed Spaces
 
@@ -28,5 +29,6 @@ In Episode 2, the Ideal Spaces team is joined by Professor Kean Birch, Associate
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-08%20at%2016.15.00.png?raw=true" width="600"/>
 <br/>
 <sub>Contribitors to this episode are Kean Birch, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
-<br></br>
+<br/>
+<br/>
 To listen to the podcast: https://iswg.infobloom.se/ 
