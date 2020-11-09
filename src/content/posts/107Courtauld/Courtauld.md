@@ -15,9 +15,9 @@ Courtauld Connects is a multi-million-pound two-phase development that will tran
 
 I have been involved in Phase 2 of Courtauld Connects since August 2019. This phase of the project addresses the design, use and accessibility of academic and research spaces at the Courtauld Institute, which is housed within the North Wing of Grade I listed building Somerset House.  
 
-<img src="https://github.com/floraml/filehosting/blob/master/Courtauld1.jpg?raw=true" width="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/Courtauld1.jpg?raw=true" width="450"/>
 
-
+<br/>
 As Research Consultant, I collaborate with the Project Team, Design Team (architects and specialist designers) and external consultants in redeveloping academic spaces, including the Courtauld Library, Research Forum, Student Hub and Lecture Theatre. An important aspect of my role is to research the current best practices in design and programming at comparable academic institutions, using benchmarking to pinpoint innovative ideas, facilities or practices. Meeting with staff at a range of London libraries and arts organisations, such as the British Library and Wellcome Collection, has given me greater insight into the practicalities of running comparable facilities, insider knowledge of effective or ineffective design practices, staff and user feedback, and a look and feel for different research or academic spaces.
 
 Each of these factors forms a crucial part in a broader option appraisal exercise, intended to determine the most valuable and innovate use of space and research facilities at The Courtauld. In addition to collating results and writing detailed summary reports, I share my research findings during collaborative workshops with architects and specialist designers, contributing creative solutions to possible difficulties in access or design.
