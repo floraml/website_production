@@ -29,17 +29,17 @@ The focus of my research has become much broader in the wake of Covid-19. With i
 I was commissioned by the Project Director to undertake a written report on the impact of COVID-19 on UK heritage organisations. My report summarised quantitative trends in visitor attraction surveys, such as BVA BDRC, and qualitative data on staff/visitor feedback. I conducted web-based research, consulting over 30 museum and gallery websites and focusing on the following areas:
 
 •	Changes in services and facilities
-<br>
+<br/>
 •	Exhibitions and display changes
-<br>
+<br/>
 •	Use of technology and interactives
-<br>
+<br/>
 •	Pre-arrival, arrival and post-visit information
-<br>
+<br/>
 •	Signage and visitor flow
-<br>
+<br/>
 •	Staffing and volunteer programme changes
-<br>
+<br/>
 •	Cleaning and hygiene
 
 I am keen to continue supporting arts and heritage organisations in forming a rapid and dynamic response to the effects of COVID-19 in a rapidly changing global situation. Please get in touch, using the details on the ‘Contact’ page, to find out more about my research work, or if you are interested in collaborating on a cultural project. 
