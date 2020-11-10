@@ -1,9 +1,9 @@
 ---
 id: "oxford"
-title: "Tours at the Museum of Oxford"
+title: "Museum of Oxford"
 author: obains
 featuredImage: oxford_tall.jpeg 
 coverImage: Oxford.jpg
-subtitleCaption: "Subtitle Test"
+subtitleCaption: "Access and Engagement"
 tags: [Museum Redevelopment Projects]
 ---

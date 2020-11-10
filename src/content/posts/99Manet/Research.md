@@ -48,7 +48,7 @@ Have you noticed the legs and little green feet of a trapeze performer that pop 
 
 Critics have even suggested that _A Bar at the Folies-Bergère_ represents the ‘primary theatre of everyday life’, with Manet exploring on canvas a range of social relationships that existed in the real world. Of course, whilst there were several stages for performance in the Folies-Bergère, it has been suggested that theatre and spectacle is also taking place within the audience: in the act of looking, and being seen.
 
-<img src="https://github.com/floraml/filehosting/blob/master/Manet/5.png?raw=true" />
+<img src="https://github.com/floraml/filehosting/blob/master/Manet/5.png?raw=true" width="640" />
 
 <br/>
 <sub>Jules Chéret, Folies-Bergère, La Loie Fuller (Loie Fuller at the Folies-Bergère), 1893</sub>
