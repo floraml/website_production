@@ -52,7 +52,13 @@ Critics have even suggested that _A Bar at the Folies-Bergère_ represents the �
 
 <br/>
 <sub>Jules Chéret, Folies-Bergère, La Loie Fuller (Loie Fuller at the Folies-Bergère), 1893</sub>
+<br/>
 
+Click the below button to listen to the podcast!
+
+<a href="https://vimeo.com/user120926019" target="_blank">
+<img src="https://github.com/floraml/filehosting/blob/master/Manet/Screenshot%202020-11-10%20at%2019.19.13.png?raw=true" />
+</a>
 
 ### Consumer or Consumed?
 
