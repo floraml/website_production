@@ -16,7 +16,6 @@ tags: [Museum Redevelopment Projects]
 As Consultant on this exciting project, I have been conducting research to support the Museum Development Officer explore the following areas:
 
 •	Collecting data and information on programming around extending access in museums e.g. quiet openings for visitors with Autism and audio described tours
-<br/>
 •	Interpretation and signage
 <br/>
 •	Setting up an Access Advisory Group
@@ -25,7 +24,7 @@ As Consultant on this exciting project, I have been conducting research to suppo
 Recently, I have been helping to improve the layout and accessibility of the museum’s online collecting platform ‘City Stories’. Through the City Stories website, visitors can discover interesting objects and stories submitted by members of the Oxford community and its twin cities, on themes including Sporting Oxford and the Covid-19 Pandemic. Users can also submit their own entries.
 <br/>
 
-<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-12%20at%2011.28.17.png?raw=true" height=""/>
+<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-12%20at%2011.28.17.png?raw=true" height="300"/>
 
 
 
