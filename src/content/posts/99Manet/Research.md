@@ -23,7 +23,7 @@ For the Tate Gallery Guides ‘What’s so special about…?’ July presentatio
 
 Manet was born into an affluent Parisian family. He refused conventional artistic training at the academy, showing no interest in arduously layering paint like the ‘realist’ painters of this period. The works of Édouard Dantan, for example, reveal a concerted effort to achieve a likeness of the subject matter, to the extent that his paintings gain an almost photographic quality. This is evident in his 1880 painting of the Salon, the official art exhibition of the Académie des Beaux-Arts in Paris, which was a pure celebration of realist works. The Salon goer expected to see artworks that gave an illusion of reality and were ‘easy to read’ – something that Manet denies the viewer in _A Bar at the Folies-Bergère_, in pursuit of a more experimental and innovative style of painting.
 
-<img src="https://github.com/floraml/filehosting/blob/master/Manet/2.png?raw=true" />
+<img src="https://github.com/floraml/filehosting/blob/master/Manet/2.png?raw=true"/>
 
 Édouard Dantan, _Un Coin du Salon en 1880_, 1880. Photo: Artnet
 
@@ -48,7 +48,7 @@ Have you noticed the legs and little green feet of a trapeze performer that pop 
 
 Critics have even suggested that _A Bar at the Folies-Bergère_ represents the ‘primary theatre of everyday life’, with Manet exploring on canvas a range of social relationships that existed in the real world. Of course, whilst there were several stages for performance in the Folies-Bergère, it has been suggested that theatre and spectacle is also taking place within the audience: in the act of looking, and being seen.
 
-<img src="https://github.com/floraml/filehosting/blob/master/Manet/5.png?raw=true" width="640" />
+<img src="https://github.com/floraml/filehosting/blob/master/Manet/5.png?raw=true" width="640"/>
 
 <br/>
 <sub>Jules Chéret, Folies-Bergère, La Loie Fuller (Loie Fuller at the Folies-Bergère), 1893</sub>
@@ -57,7 +57,7 @@ Critics have even suggested that _A Bar at the Folies-Bergère_ represents the �
 Click the below button to listen to the podcast!
 
 <a href="https://vimeo.com/user120926019" target="_blank">
-<img src="https://github.com/floraml/filehosting/blob/master/Manet/Screenshot%202020-11-10%20at%2019.19.13.png?raw=true" />
+<img src="https://github.com/floraml/filehosting/blob/master/Manet/Screenshot%202020-11-10%20at%2019.19.13.png?raw=true"/>
 </a>
 
 ### Consumer or Consumed?

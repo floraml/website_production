@@ -22,6 +22,7 @@ As Consultant on this exciting project, I have been conducting research to suppo
 •	Setting up an Access Advisory Group
 <br/>
 •	Collecting data and information on programming around extending access in museums e.g. quiet openings for visitors with Autism and audio described tours
+•	Designing and delivering focus groups 
 
 Recently, I have been helping to improve the layout and accessibility of the museum’s online collecting platform ‘City Stories’. Through the City Stories website, visitors can discover interesting objects and stories submitted by members of the Oxford community and its twin cities, on themes including Sporting Oxford and the Covid-19 Pandemic. Users can also submit their own entries.
 <br/>
