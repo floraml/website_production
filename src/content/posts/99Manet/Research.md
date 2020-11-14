@@ -17,7 +17,7 @@ For the Tate Gallery Guides ‘What’s so special about…?’ July presentatio
 <img src="https://github.com/floraml/filehosting/blob/master/Manet/1.png?raw=true" width="640"/>
 
 <br/>
-<sub>Édouard Manet, _A Bar at the Folies-Bergère_, 1882. Photo: The Courtauld</sub>
+<sub>Édouard Manet, <i>A Bar at the Folies-Bergère</i>, 1882. Photo: The Courtauld</sub>
 
 ### Manet and Modern Paris
 
@@ -25,14 +25,14 @@ Manet was born into an affluent Parisian family. He refused conventional artisti
 
 <img src="https://github.com/floraml/filehosting/blob/master/Manet/2.png?raw=true"/>
 
-Édouard Dantan, _Un Coin du Salon en 1880_, 1880. Photo: Artnet
+<sub>Édouard Dantan, <i>Un Coin du Salon en 1880</i>, 1880. Photo: Artnet</sub>
 
 Manet was captivated by the dynamism of Paris at the turn of the 20th century, where he observed old conventions of social rank and deference gradually becoming undone. In the 1860s, French administrator Baron Haussmann ordered the medieval parts of the city be knocked down and replaced with the boulevards, parks and theatres that we associate with Paris today. We see in Camille Pissarro’s 1898 painting A_venue de l’Opèra_, pictured below, how Haussmann’s modern urban design brought light and air to the centre of the city. Manet sought to capture this spirit of modern Paris in his paintings. His work reiterates the necessity of engaging with art to understand how the world looked and felt in the past – in this case, the end of the 19th century –, when the urban and social spaces in Paris were undergoing such dramatic transformation.
 
 <img src="https://github.com/floraml/filehosting/blob/master/Manet/3.jpg?raw=true" width="640"/>
 
 <br/>
-<sub>Camille Pissarro, _Avenue de l’Opèra_, 1898. Photo: Philadelphia Museum of Art</sub>
+<sub>Camille Pissarro, <i>Avenue de l’Opèra</i>, 1898. Photo: Philadelphia Museum of Art</sub>
 
 A _Bar at the Folies-Bergère_ by Manet gives the viewer an authentic glimpse of a vibrant café concert or variety show venue, whose interior was subsequently lost. It was a place of social animation, where people shared political ideas, artists convened, singers and jugglers performed. For Manet, the Folies-Bergère represented the exciting new entertainment spaces that were becoming popular in Paris at the time, particularly amongst the increasingly wealthy, growing middle class, who had leisure time and money to spend. The painting exudes luxury and opulence, depicting glittering chandeliers, a rich, deeply veined marble-top bar surface and decadent items for sale: champagne, wine (with Manet’s signature etched onto the side of the bottle) and candied mandarins in a cut-glass bowl. To the right of the bottle of wine, is a brown bottle with a red triangle on its label – the logo for Bass Brewery –, representing the international audience that would have come to the Folies-Bergère. This was, in fact, the first time that a trademarked logo appeared in a painting.
 
@@ -51,7 +51,7 @@ Critics have even suggested that _A Bar at the Folies-Bergère_ represents the �
 <img src="https://github.com/floraml/filehosting/blob/master/Manet/5.png?raw=true" width="640"/>
 
 <br/>
-<sub>Jules Chéret, Folies-Bergère, La Loie Fuller (Loie Fuller at the Folies-Bergère), 1893</sub>
+<sub>Jules Chéret, <i>Folies-Bergère, La Loie Fuller</i> (Loie Fuller at the Folies-Bergère), 1893</sub>
 <br/>
 
 Click the below button to listen to the podcast!
@@ -71,7 +71,7 @@ In an X-ray taken of the canvas, the Conservation Team at the Courtauld discover
 <img src="https://github.com/floraml/filehosting/blob/master/Manet/6.png?raw=true"/>
 
 <br/>
-<sub>An X-ray of _A Bar at the Folies-Bergère_. Photo: The Courtauld</sub>
+<sub>An X-ray of <i>A Bar at the Folies-Bergère</i>, Photo: The Courtauld</sub>
 
 Moreover, by having the barmaid rest her hands on the marble top, Manet was able to expose an indirect nakedness and classlessness, because of course, ladies never went out without their gloves in this period – this remained true up until the 1950s. Her position gives us much greater access to her front, and draws the eye straight to the luminous glow of her flesh. We are immediately drawn into the fantasy of a ‘universal language of pleasure’ at the Folies-Bergère, further complicating the viewer’s relationship to this female figure.
 
@@ -84,4 +84,4 @@ There are multiple stories and perspectives that can be read in _A Bar at the Fo
 <img src="https://github.com/floraml/filehosting/blob/master/Manet/7.png?raw=true" width="640"/>
 
 <br/>
-<sub>Georges Seurat, _A Sunday Afternoon on the Island of La Grande Jatte_, 1884-6. Photo: Widewalls</sub>
+<sub>Georges Seurat, <i>A Sunday Afternoon on the Island of La Grande Jatte</i>, 1884-6. Photo: Widewalls</sub>
