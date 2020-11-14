@@ -16,27 +16,18 @@ tags: [Museum Redevelopment Projects]
 
 As Consultant on this exciting project, I have been conducting research to support the Museum Development Officer explore the following areas:
 
-<br/>
-•	Interpretation and signage
-<br/>
-•	Setting up an Access Advisory Group
-<br/>
-•	Collecting data and information on programming around extending access in museums e.g. quiet openings for visitors with Autism and audio described tours
+-	Interpretation and signage
+-	Setting up an Access Advisory Group
+-	Collecting data and information on programming around extending access in museums e.g. quiet openings for visitors with Autism and audio described tours
 
 I recently supported the Museum of Oxford team in designing and delivering a focus group to gain user feedback on the museum's online collecting platform 'City Stories'. Through the City Stories website, visitors can discover interesting objects and stories submitted by members of the Oxford community and its twin cities, on themes including Sporting Oxford and the Covid-19 Pandemic. Users can also submit their own entries. Having identified key areas of the website that could be improved, we explored:
-<br/>
- •	Accessibility
- <br/>
- •	Navigation
- <br/>
- •	Formatting
- <br/>
- •	Interactive features such as the City Stories Map
- <br/>
- •	Specific pages, including Get Started and Features
- <br/>
- •	Browsing tools
-<br/>
+
+-	Accessibility
+-	Navigation
+-	Formatting
+-	Interactive features such as the City Stories Map
+-	Specific pages, including Get Started and Features
+-	Browsing tools
 
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-12%20at%2011.28.17.png?raw=true" height="500"/>
 <br/>
