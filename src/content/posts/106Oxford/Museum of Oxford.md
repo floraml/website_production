@@ -22,14 +22,23 @@ As Consultant on this exciting project, I have been conducting research to suppo
 •	Setting up an Access Advisory Group
 <br/>
 •	Collecting data and information on programming around extending access in museums e.g. quiet openings for visitors with Autism and audio described tours
-•	Designing and delivering focus groups 
 
-Recently, I have been helping to improve the layout and accessibility of the museum’s online collecting platform ‘City Stories’. Through the City Stories website, visitors can discover interesting objects and stories submitted by members of the Oxford community and its twin cities, on themes including Sporting Oxford and the Covid-19 Pandemic. Users can also submit their own entries.
+I recently supported the Museum of Oxford team in designing and delivering a focus group to gain user feedback on the museum's online collecting platform 'City Stories'. Through the City Stories website, visitors can discover interesting objects and stories submitted by members of the Oxford community and its twin cities, on themes including Sporting Oxford and the Covid-19 Pandemic. Users can also submit their own entries. Having identified key areas of the website that could be improved, we explored:
+<br/>
+ •	Accessibility
+ <br/>
+ •	Navigation
+ <br/>
+ •	Formatting
+ <br/>
+ •	Interactive features such as the City Stories Map
+ <br/>
+ •	Specific pages, including Get Started and Features
+ <br/>
+ •	Browsing tools
 <br/>
 
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-12%20at%2011.28.17.png?raw=true" height="500"/>
 <br/>
 
-
-
-
+The focus group provided us with some very useful feedback and insight into how users currently use and experience City Stories, and has given us a clear set of ideas about how to proceed in improving the website for future use.
