@@ -4,11 +4,11 @@ title: "JULY 2020: WHAT’S SO SPECIAL ABOUT…?"
 author: obains
 featuredImage: header.jpeg
 coverImage: header.jpeg
-subtitleCaption: "Tate Gallery"
+subtitleCaption: "Tate Guides Independent Art Group Talks"
 tags: ["Tate Gallery"]
 ---
 
-## Tate Gallery Guides talks
+## Tate Guides Independent Art Group Talks
 
 ### Édouard Manet, _A Bar at the Folies-Bergère_, 1882
 

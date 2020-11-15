@@ -16,6 +16,8 @@ In my talk, I explore Richter’s early work, including his 1917-18 wartime draw
 
 The full recording of my talk and presentation can be [found on Vimeo](https://vimeo.com/438543120) with the password: StayathomeseriesFlora
 
+<a href="https://vimeo.com/438543120"  target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-15%20at%2017.18.30.png?raw=true" width="600"/>
-
+<br/>
+</a>
 <sub>Video edited by Kelise Franclemon</sub>

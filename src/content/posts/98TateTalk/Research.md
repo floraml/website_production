@@ -4,11 +4,11 @@ title: "AUGUST 2020: AT FIRST… BUT NOW… "
 author: obains
 featuredImage: header.jpeg
 coverImage: header.jpeg
-subtitleCaption: "Tate Gallery Guides talks"
+subtitleCaption: "Tate Guides Independent Art Group Talks"
 tags: ["Tate Gallery"]
 ---
 
-## Tate Gallery Guides talks
+## Tate Guides Independent Art Group Talks
 
 ### Tracey Emin, *My Bed*, 1998
 
