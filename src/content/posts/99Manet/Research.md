@@ -1,5 +1,5 @@
 ---
-id: "amanet"
+id: "manet"
 title: "JULY 2020: WHAT’S SO SPECIAL ABOUT…?"
 author: obains
 featuredImage: header.jpeg
