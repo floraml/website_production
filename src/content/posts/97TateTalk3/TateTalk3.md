@@ -1,7 +1,7 @@
 ---
 id: "Tate talk 3"
 title: "NOVEMBER 2020: SELF-PORTRAITS"
-author: flora
+author: obains
 featuredImage: header.jpeg
 coverImage: header.jpeg
 subtitleCaption: "Tate Guides Independent Art Group Talks"
