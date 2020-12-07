@@ -35,7 +35,7 @@ The daring quality and relatability of Emin’s bed make many visitors feel unco
 
 Back in 2015, I too had felt uncomfortable coming face-to-face with such a difficult time in Emin’s life, although I liked how different Emin’s work was to anything I had seen before, and how effective *My Bed* was in provoking different responses in me: surprise, repulsion, excitement and admiration.
 
-<img src="https://github.com/floraml/filehosting/blob/master/tate/08.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/tate/08.png?raw=true" width="300"/>
 
 >‘I think they hated it because they hated contemporary art and they hated new ideas…’ - Tracey Emin
 

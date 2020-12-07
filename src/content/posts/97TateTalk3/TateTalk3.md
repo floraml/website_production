@@ -14,7 +14,7 @@ tags: ["Tate Gallery"]
 
 For the recent Self-Portraits presentation series, I choose to talk about Frida Kahlo’s iconic double self-portrait <i>The Two Fridas</i> (1939). This painting very powerfully conveys many of the key themes that came to define Kahlo’s work, and in particular, speaks of the emotional and physical suffering she experienced throughout her life.
 
-<img src="https://github.com/floraml/filehosting/blob/master/im10.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im10.jpg?raw=true" height="300"/>
 
 <sub>Frida Kahlo, <i>The Two Fridas</i>, 1939, oil on canvas, Museo de Arto Moderno, Mexico City</sub>
 
@@ -26,11 +26,11 @@ This comment reveals Kahlo’s vulnerability, but it does not in my opinion sugg
 
 In 1925, when Kahlo was just 18 years old, she was involved in a near-fatal bus accident on her way home from school. She suffered many injuries, including a fractured pelvis and broken spine. This horrific accident sparked Kahlo’s life-long fascination with the universal cycle of life and she used self-portraiture as means of searching for harmony between dualistic principles, such as life and death. Certainly in <i>The Two Fridas</i>, Kahlo presents herself in two halves, as two figures separate but at the same time connected – and in this photograph, we have a third figure present: Frida Kahlo herself, standing alongside her self-portrait, which, in my opinion, draws attention to the self-referential nature of her work, which was so often a reflection of her individual, biographical perspective. 
 
-<img src="https://github.com/floraml/filehosting/blob/master/im11.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im11.jpg?raw=true" height="300"/>
 
 Self-portraiture became Kahlo’s principal way of expressing the discomfort she felt about exploring her own personality. Her 1944 self-portrait Broken Column portrays what is arguably Kahlo’s frankest expression of herself following her accident; after spinal surgery, Kahlo was forced to wear a steel body brace – which she wore for the rest of her life. In this painting, we see her body divided into two pieces by an Ionic column (which were often built for Greek and Roman goddesses) – and yet, the column, which takes the place of her damaged spine, does not stand tall and strong, but looks as if it might crumble at any given moment. The corset, appears to keep her body supported, but at the same time, confines Kahlo’s movement. We would perhaps expect to see a face full of pain or suffering, and yet, Kahlo’s face appears mask-like – she looks almost stoic in the way that her blank expression seems to conceal the intense pain we know she suffered. We see a similar emptiness in the cleft in her torso and the barren landscape behind her.
 
-<img src="https://github.com/floraml/filehosting/blob/master/im12.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im12.jpg?raw=true" height="300"/>
 
 <sub>Frida Kahlo, <i>The Broken Column</i>, 1944, oil on masonite, Museo Dolores Olmedo Xochimilco</sub>
 
@@ -45,9 +45,9 @@ Some art historians have suggested that the two figures in <i>The Two Fridas</i>
 
 It is often thought that <i>The Two Fridas</i> is a bookend to her earlier 1931 portrait, Frieda and Diego Riviera, which was made two years after their marriage, and was intended to celebrate their union. However, the tentative grasp of hands, Frida’s unsmiling expression and averted eyes undercuts the celebratory nature of the occasion. Even the tone of the words written on the banner above: ‘Here you see us, me Frieda Kahlo, with my dearest Diego Rivera. I painted these pictures in the delightful city of San Francisco California for our companion Mr Albert Bender, and it was in the month of April of the year 1931’’ seem incredibly flat and matter of fact. I’ve often wondered why her name is spelt with ‘ie’ here, perhaps referencing the German word ‘frei’, which means ‘freedom’ – which seems rather ironic, given the misgivings she seems to show here about her husband’s fidelities.
 
-<img src="https://github.com/floraml/filehosting/blob/master/im10.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im10.jpg?raw=true" height="300"/>
 
-<img src="https://github.com/floraml/filehosting/blob/master/im13.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im13.jpg?raw=true" height="300"/>
 
 <sub>Frida Kahlo, <i>Frieda and Diego Rivera</i>, 1931, oil on canvas,  San Francisco Museum of Modern Art</sub>
 
@@ -55,11 +55,11 @@ It is often thought that <i>The Two Fridas</i> is a bookend to her earlier 1931 
 
 For example, if we look closely, we can see in <i>The Two Fridas</i> that Frida on the right is holding a miniature portrait of Rivera, which is connected to the arterial supply from her heart, as if it were feeding the portrait as she pines after her lost love. Like in her earlier 1931 portrait, Frieda and Diego Riviera, Diego appears to dwarf Frida; she is placed in the role of producer or wife of the great artist, Diego Rivera, rather than a great artist in her own right. The small oval frame seems to trap her in this role, just like she was confined by her steel corset.
 
-<img src="https://github.com/floraml/filehosting/blob/master/im16.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im16.jpg?raw=true" height="300"/>
 
 Then we have Frida on the left, who clamps down on this tie between Kahlo and Rivera figuratively and literally, with a hemostat, a tool used to clamp an artery to control bleeding, the evidence of which we can see here in the scarlet droplets on Kahlo’s crisp white dress – I read this as the innocence of young single Frida, becoming tarnished by the blood lost over of a chaotic and unpredictable marriage, but I would be interested to hear your thoughts on this later on.
 
-<img src="https://github.com/floraml/filehosting/blob/master/im17.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im17.jpg?raw=true" height="300"/>
 
 Again we see a series of divisions and opposites play out – where one of the Frida figures is weakened by an exposed heart and uncontrollable bleeding, the other remains strong; the Frida that clamps down on the artery in an attempt to stem the bleeding and regain control of the situation she finds herself in, is mirrored by the Frida that seems weakened by the divorce and lost love. The uncertainty and mixed emotions we see in this self-portrait seems to be a microcosm of an incredibly complex relationship, which progressed within just a few years, from marriage, to divorce, to re-marriage. It is difficult to say whether the two versions of Fridas we see here are polar opposites, or two halves of a unified whole. When writing about this painting, Kahlo suggested that it represented a memory of an imaginary friend, who stayed with her throughout her life, doing all the things that Kahlo wanted to do ever since she was diagnosed with Polio aged six – once again, we see the dichotomy of freedom vs. constraint, which Kahlo explored in <i>The Broken Column</i>.
 
@@ -68,11 +68,11 @@ Through it all, the two parts of Kahlo (the two Fridas) clasp their hands tightl
 Blood, for Kahlo, was often used as a metaphor for union, as we see in her 1936 family portrait; her lineage is symbolised by the deep red blood vessels, which connect Frida to her parents and grandparents here. In other works by Kahlo, blood was also used to portray raw violence, scenes that forced the viewer to become eyewitnesses to horrific events, such as the rape scene she depicts in her 1935 oil painting: A Few Little Pricks. 
 Interestingly, I think we see both a tenderness and violence in Kahlo’s depiction of blood in <i>The Two Fridas</i> – it is a shocking and unsettling depiction of raw emotion.
 
-<img src="https://github.com/floraml/filehosting/blob/master/im14.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im14.jpg?raw=true" height="300"/>
 
 <sub>Frida Kahlo, <i>My Grandparents, My Parents, and I (Family Tree)</i>, 1936, oil and tempera on zinc (The Museum of Modern Art)</sub>
 
-<img src="https://github.com/floraml/filehosting/blob/master/im15.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/im15.jpg?raw=true" height="300"/>
 
 <sub>Frida Kahlo, <i>A Few Little Pricks</i>, oil on metal, 1935</sub>
 
