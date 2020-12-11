@@ -1,5 +1,5 @@
 ---
-id: "Tate talk 3"
+id: "tate-talk-nov"
 title: "NOVEMBER 2020: SELF-PORTRAITS"
 author: obains
 featuredImage: header.jpeg

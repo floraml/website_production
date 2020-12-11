@@ -1,5 +1,5 @@
 ---
-id: "tatetalk"
+id: "aug-tate-talk"
 title: "AUGUST 2020: AT FIRST… BUT NOW… "
 author: obains
 featuredImage: header.jpeg
