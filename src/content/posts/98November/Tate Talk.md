@@ -48,9 +48,9 @@ It is often thought that <i>The Two Fridas</i> is a bookend to her earlier 1931 
 <img src="https://github.com/floraml/filehosting/blob/master/im10.jpg?raw=true" height="400"/>
 <br/>
 <img src="https://github.com/floraml/filehosting/blob/master/im13.jpg?raw=true" height="400"/>
-
+<br/>
 <sub>Frida Kahlo, <i>Frieda and Diego Rivera</i>, 1931, oil on canvas,  San Francisco Museum of Modern Art</sub>
-
+<br/>
 <i>The Two Fridas</i> was made shortly after the couple divorced in 1939, and shows similar tension I think between attachment and detachment – the couple in each painting hold hands, and seem unified, but upon closer inspection, we wonder whether they are in fact emotionally much further apart. 
 
 For example, if we look closely, we can see in <i>The Two Fridas</i> that Frida on the right is holding a miniature portrait of Rivera, which is connected to the arterial supply from her heart, as if it were feeding the portrait as she pines after her lost love. Like in her earlier 1931 portrait, Frieda and Diego Riviera, Diego appears to dwarf Frida; she is placed in the role of producer or wife of the great artist, Diego Rivera, rather than a great artist in her own right. The small oval frame seems to trap her in this role, just like she was confined by her steel corset.
@@ -71,6 +71,7 @@ Interestingly, I think we see both a tenderness and violence in Kahlo’s depict
 <img src="https://github.com/floraml/filehosting/blob/master/im14.jpg?raw=true" height="400"/>
 <br/>
 <sub>Frida Kahlo, <i>My Grandparents, My Parents, and I (Family Tree)</i>, 1936, oil and tempera on zinc (The Museum of Modern Art)</sub>
+<br/>
 <br/>
 <img src="https://github.com/floraml/filehosting/blob/master/im15.jpg?raw=true" height="400"/>
 <br/>

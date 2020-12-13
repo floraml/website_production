@@ -19,7 +19,7 @@ gaming and virtual conferences.
 
 Press play to listen to the podcast!
 
-<a href="https://iswg.infobloom.se/"  target="_blank" >
+<a href="https://www.idealspaces.org/podcasts/notions-of-space/"  target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-10%20at%2017.13.46.png?raw=true"
 width="600"/>
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-09%20at%2009.32.36.png?raw=true" width="600"/>
@@ -35,7 +35,7 @@ In Episode 2, the Ideal Spaces team is joined by Professor Kean Birch, Associate
 
 Press play to listen to the podcast!
 
-<a href="https://iswg.infobloom.se/"  target="_blank" >
+<a href="https://www.idealspaces.org/podcasts/managed-spaces/"  target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-10%20at%2017.13.28.png?raw=true"
 width="600"/>
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-08%20at%2016.15.00.png?raw=true" width="600"/>
