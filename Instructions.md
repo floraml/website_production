@@ -10,7 +10,8 @@ Type in:
 
 --
 cd website/website_production/
-git pull 
+git pull --all
+git checkout flora
 --
 
 Write articles etc 
@@ -21,7 +22,7 @@ Type in:
 --
 git add .
 git commit -m ""       		<- Add a message in between the quotation marks
-git push -u origin master
+git push -u origin flora
 --
 
 Close Terminal
