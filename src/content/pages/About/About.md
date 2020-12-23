@@ -13,4 +13,4 @@ Flora joined Ideal Spaces Working Group in 2019, driven by her strong research i
 
 Since 2020, Flora has been an official gallery guide at Tate Modern, London, developing inclusive public tours that focus on the sensory experience of art.
 
-<img src="https://github.com/floraml/filehosting/blob/master/headshotcompressed.png?raw=true" height="300"/>
+<img src="https://github.com/floraml/filehosting/blob/master/Flora%20(1).jpg?raw=true" height="300"/>
