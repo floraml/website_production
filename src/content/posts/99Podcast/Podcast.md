@@ -44,3 +44,19 @@ width="600"/>
 <sub>Contribitors to this episode are Kean Birch, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
 <br/>
 <br/>
+## Interview Series
+<br/>
+This new podcast series, of which I am co-host, runs alongside Ideal Spaces’ existing series on 'space'. In a sequence of short interviews, we invite guests to discuss their current project work and current project work. The series is designed to deepen our understanding of the theme Community and Place, which was central to our contribution at the 2020 Future Europe exhibition at the Schusev Museum of Architecture in Moscow.
+
+### Interview with Professor Andy Jones: Urban Parks
+
+Flora Loughridge and Ulrich Gehmann are joined by Andy Jones, Professor in Public Health at UEA’s Norwich Medical School. Andy’s primary research focus is on the environmental influences on population health. His core work explores the manner by which characteristics of the social and physical environments act to influence the health of the population. 
+This interview focuses on Andy’s recently published co-authored study on Environmental Equity and Perceived Accessibility to Urban Parks in Osaka, Japan. This opens up a thought-provoking discussion on the history of parks, problems with accessibility and funding of urban parks, as well as the future of green spaces.
+
+The study, ‘Quantitative Environmental Equity Analysis of Perceived Accessibility to Urban Parks in Osaka Prefecture, Japan’, was published on October 17, 2020 in the <a href=" https://link.springer.com/article/10.1007/s12061-020-09360-5> <i>Journal of Applied Spatial Analysis and Policy</i> </a>.
+
+
+
+
+
+
