@@ -49,6 +49,7 @@ width="600"/>
 This new podcast series, of which I am co-host, runs alongside Ideal Spaces’ existing series on 'space'. In a sequence of short interviews, we invite guests to discuss their current project work and current project work. The series is designed to deepen our understanding of the theme Community and Place, which was central to our contribution at the 2020 Future Europe exhibition at the Schusev Museum of Architecture in Moscow.
 <br/>
 <br/>
+
 ### Interview with Professor Andy Jones: Urban Parks
 
 Flora Loughridge and Ulrich Gehmann are joined by Andy Jones, Professor in Public Health at UEA’s Norwich Medical School. Andy’s primary research focus is on the environmental influences on population health. His core work explores the manner by which characteristics of the social and physical environments act to influence the health of the population. 
