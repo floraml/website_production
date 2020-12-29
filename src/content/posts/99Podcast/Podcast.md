@@ -19,7 +19,7 @@ gaming and virtual conferences.
 
 Press play to listen to the podcast!
 
-<a href="https://www.idealspaces.org/podcasts/notions-of-space/"  target="_blank" >
+<a href="https://www.idealspaces.org/podcasts/notions-of-space/" target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-10%20at%2017.13.46.png?raw=true"
 width="600"/>
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-09%20at%2009.32.36.png?raw=true" width="600"/>
@@ -35,7 +35,7 @@ In Episode 2, the Ideal Spaces team is joined by Professor Kean Birch, Associate
 
 Press play to listen to the podcast!
 
-<a href="https://www.idealspaces.org/podcasts/managed-spaces/"  target="_blank" >
+<a href="https://www.idealspaces.org/podcasts/managed-spaces/" target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-10%20at%2017.13.28.png?raw=true"
 width="600"/>
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-08%20at%2016.15.00.png?raw=true" width="600"/>
@@ -53,8 +53,7 @@ This new podcast series, of which I am co-host, runs alongside Ideal Spaces’ e
 Flora Loughridge and Ulrich Gehmann are joined by Andy Jones, Professor in Public Health at UEA’s Norwich Medical School. Andy’s primary research focus is on the environmental influences on population health. His core work explores the manner by which characteristics of the social and physical environments act to influence the health of the population. 
 This interview focuses on Andy’s recently published co-authored study on Environmental Equity and Perceived Accessibility to Urban Parks in Osaka, Japan. This opens up a thought-provoking discussion on the history of parks, problems with accessibility and funding of urban parks, as well as the future of green spaces.
 
-The study, ‘Quantitative Environmental Equity Analysis of Perceived Accessibility to Urban Parks in Osaka Prefecture, Japan’, was published on October 17, 2020 in the <a href="https://link.springer.com/article/10.1007/s12061-020-09360-5"> Journal of Applied Spatial Analysis and Policy.
-</a>
+The study, ‘Quantitative Environmental Equity Analysis of Perceived Accessibility to Urban Parks in Osaka Prefecture, Japan’, was published on October 17, 2020 in the <a href="https://link.springer.com/article/10.1007/s12061-020-09360-5"> Journal of Applied Spatial Analysis and Policy.</a>
 <br/>
 Press play to listen to the podcast!
 <br/>
