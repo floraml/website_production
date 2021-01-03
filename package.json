@@ -10,7 +10,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.29.2",
+    "gatsby": "^2.29.3",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.9.1",
     "gatsby-theme-flora-website": "^2.3.6",

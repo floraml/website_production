@@ -25,7 +25,7 @@ width="600"/>
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-09%20at%2009.32.36.png?raw=true" width="600"/>
 </a>
 <br/>
-<sub>Contribitors to this episode are Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
+<sub>Contributors to this episode are Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
 <br/>
 <br/>
 
@@ -41,7 +41,7 @@ width="600"/>
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202020-11-08%20at%2016.15.00.png?raw=true" width="600"/>
 </a>
 <br/>
-<sub>Contribitors to this episode are Kean Birch, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
+<sub>Contributors to this episode are Kean Birch, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
 <br/>
 <br/>
 
@@ -54,7 +54,7 @@ Flora Loughridge and Ulrich Gehmann are joined by Andy Jones, Professor in Publi
 This interview focuses on Andy’s recently published co-authored study on Environmental Equity and Perceived Accessibility to Urban Parks in Osaka, Japan. This opens up a thought-provoking discussion on the history of parks, problems with accessibility and funding of urban parks, as well as the future of green spaces.
 
 The study, ‘Quantitative Environmental Equity Analysis of Perceived Accessibility to Urban Parks in Osaka Prefecture, Japan’, was published on October 17, 2020 in the <a href="https://link.springer.com/article/10.1007/s12061-020-09360-5"> Journal of Applied Spatial Analysis and Policy.</a>
-<br/>
+
 Press play to listen to the podcast!
 <br/>
 <a href="https://www.idealspaces.org/podcasts/interview-with-professor-andy-jones-urban-parks/" 
@@ -62,6 +62,6 @@ target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Insert1.jpg?raw=true" width="600"/>
 </a>
 <br/>
-<sub>Contribitors to this episode are Andy Jones, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
+<sub>Contributors to this episode are Andy Jones, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
 <br/>
 <br/>

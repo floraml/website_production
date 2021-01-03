@@ -57,10 +57,17 @@ It is often thought that <i>The Two Fridas</i> is a bookend to her earlier 1931 
 For example, if we look closely, we can see in <i>The Two Fridas</i> that Frida on the right is holding a miniature portrait of Rivera, which is connected to the arterial supply from her heart, as if it were feeding the portrait as she pines after her lost love. Like in her earlier 1931 portrait <i>Frieda and Diego Riviera</i>, Diego appears to dwarf Frida; she is placed in the role of wife of the great artist Diego Rivera, rather than a great artist in her own right. The small oval frame seems to trap her in this role, just like she was confined by her steel corset.
 
 <img src="https://github.com/floraml/filehosting/blob/master/im16.jpg?raw=true" height="300"/>
-
+<br/>
+<sub> Detail:<i>The Two Fridas</i></sub>
+<br/>
 Then we have Frida on the left, who clamps down on this tie between Kahlo and Rivera figuratively and literally with a hemostat, a tool used to clamp an artery to control bleeding, the evidence of which we can see here in the scarlet droplets on Kahlo’s crisp white dress. I read this as the innocence of young single Frida becoming tarnished by the blood lost over of a chaotic and unpredictable marriage, but I would be interested to hear your thoughts on this later on.
-
+<br />
+<br />
 <img src="https://github.com/floraml/filehosting/blob/master/im17.jpg?raw=true" height="300"/>
+<br/>
+
+<sub>Detail:<i>The Two Fridas</i></sub>
+<br/>
 
 Again we see a series of divisions and opposites play out: where one of the Fridas is weakened by an exposed heart and uncontrollable bleeding, the other remains strong; the Frida that clamps down on the artery in an attempt to stem the bleeding and regain control of the situation she finds herself in, is mirrored by the Frida that seems weakened by the divorce and lost love. The uncertainty and mixed emotions we see in this self-portrait are surely a microcosm of an incredibly complex relationship, which progressed within just a few years, from marriage to divorce, to re-marriage. It is difficult to say whether the two versions of Fridas we see here are polar opposites, two halves of a unified whole, or maybe even both. When writing about this painting, Kahlo suggested that it represented a memory of an imaginary friend, who stayed with her throughout her life, doing all the things that Kahlo wanted to do ever since she was diagnosed with Polio aged six – once again, we see the dichotomy of freedom vs constraint, which Kahlo explored in <i>The Broken Column</i>.
 
