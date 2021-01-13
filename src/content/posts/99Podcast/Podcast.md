@@ -14,7 +14,7 @@ Ideal Spaces Working Group recently launched a new podcast series, in which we d
 
 ### Episode One - Notions of Space
 
-In the first podcast episode, Ulrich, Michael and I explore the question ‘What is Space?’. We introduce the ‘vignette’ concept behind the podcast, the recent work of Ideal Spaces, and delve into ideas relating to the camera, as well as the social impact of Covid-19, 
+In the first of our ten vignettes, Ulrich, Michael and I explore the question ‘What is Space?’. We introduce the ‘vignette’ concept behind the podcast, the recent work of Ideal Spaces, and delve into ideas relating to the camera, as well as the social impact of Covid-19, 
 gaming and virtual conferences.
 
 Press play to listen to the podcast!
@@ -31,7 +31,7 @@ width="600"/>
 
 ### Episode Two – Managed Spaces
 
-In Episode 2, the Ideal Spaces team is joined by Professor Kean Birch, Associate Professor in the Faculty of Enivironmental and Urban Change as well as Graduate Program Director of the Science & Technology Studies Program at York University, Canada. Kean’s research focuses on the emergence of a specifically technoscientific capitalism, entailing the increasing entanglement of technoscience and finance. His most recent project focuses on the diverse modes of rentiership in technology sectors, especially in the extraction and exploitation of our personal data, and what this means for the organization of markets and economies. Kean talks to us about the entanglement of space with financial logic, using two key examples of financial or social assets: bio-fuels and houses. We discuss the complex relationship between people and managed spaces, the collection and use of personal data, and the future of management.
+In Episode 2, we are joined by Professor Kean Birch, Associate Professor in the Faculty of Enivironmental and Urban Change as well as Graduate Program Director of the Science & Technology Studies Program at York University, Canada. Kean’s research focuses on the emergence of a specifically technoscientific capitalism, entailing the increasing entanglement of technoscience and finance. His most recent project focuses on the diverse modes of rentiership in technology sectors, especially in the extraction and exploitation of our personal data, and what this means for the organization of markets and economies. Kean talks to us about the entanglement of space with financial logic, using two key examples of financial or social assets: bio-fuels and houses. We discuss the complex relationship between people and managed spaces, the collection and use of personal data, and the future of management.
 
 Press play to listen to the podcast!
 
@@ -45,8 +45,25 @@ width="600"/>
 <br/>
 <br/>
 
+### Episode Three – Functional Spaces
+
+In Episode 3, the Ideal Spaces team is joined by Stan Allen, an architect and Professor of Architecture at Princeton. Stan holds degrees from Brown University, The Cooper Union and Princeton. In 1991, he established an independent practice, and since that time, has pursued parallel careers as architect, educator and writer. He has taught as Harvard, Columbia and Princeton, and served as Dean of the School of Architecture at Princeton from 2002 to 2012. His books include <i>Points + Lines: Diagrams and Projects for the City</i> (1999); <i>Practice: Architecture, Technique and Representation</i> (2008); <i>Landform Bulding: Architecture's New Terrain</i> (2011); and <i>Stan Allen: Four Projects</i> (2017). His most recent book, published in 2020, is <i>Situated Objects</i>, a book of buildings and projects located in the Hudson River Valley, where Stan lives and works. 
+
+In this episode, we discuss architecture as a material practice that should anticipate and continuously evolve over time, and architecture as the immaterial structures, voids and spaces between things. Finally, we explore the importance of re-connecting architecture with time and process, to once again find a human measure that makes functional spaces sustainable human living environments.
+
+Press play to listen to the podcast!
+
+<a href="https://www.idealspaces.org/podcasts/functional-spaces/" target="_blank" >
+<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202021-01-13%20at%2023.21.24.png?raw=true"
+width="600"/>
+<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202021-01-13%20at%2023.04.27.png?raw=true" width="600"/>
+</a>
+<br/>
+<sub>Contributors to this episode are Stan Allen, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
+<br/>
+<br/>
+
 ## Interview Series 
-This new podcast series, of which I am co-host, runs alongside Ideal Spaces’ existing series on 'space'. In a sequence of short interviews, we invite guests to discuss their current project work and current project work. The series is designed to deepen our understanding of the theme Community and Place, which was central to our contribution at the 2020 Future Europe exhibition at the Schusev Museum of Architecture in Moscow.
 
 ### Interview with Professor Andy Jones: Urban Parks
 
@@ -59,9 +76,11 @@ Press play to listen to the podcast!
 <br/>
 <a href="https://www.idealspaces.org/podcasts/interview-with-professor-andy-jones-urban-parks/" 
 target="_blank" >
-<img src="https://github.com/floraml/filehosting/blob/master/Insert1.jpg?raw=true" width="600"/>
+<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202021-01-13%20at%2023.07.20.png?raw=true"
+width="600"/>
+<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202021-01-13%20at%2023.18.38.png?raw=true" width="600"/>
 </a>
 <br/>
-<sub>Contributors to this episode are Andy Jones, Flora Loughridge, Ulrich Gehmann and Michael Johansson</sub>
+<sub>Contributors to this episode are Andy Jones, Flora Loughridge and Ulrich Gehmann</sub>
 <br/>
 <br/>
