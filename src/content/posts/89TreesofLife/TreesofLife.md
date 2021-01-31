@@ -2,10 +2,10 @@
 id: "treesoflife"
 title: "Trees of Life"
 author: obains
-featuredImage: research.jpeg
-coverImage: research.jpeg
+featuredImage: trees.jpeg
+coverImage: trees1.jpeg
 subtitleCaption: "Research"
-tags: ["Research: filmmaking"]
+tags: ["Ideal Spaces"]
 ---
 
 ## Trees of Life
