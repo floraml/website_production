@@ -5,7 +5,7 @@ author: obains
 featuredImage: trees.jpeg
 coverImage: trees1.jpeg
 subtitleCaption: "Research"
-tags: ["Ideal Spaces"]
+tags: ["Trees of Life, Ideal Spaces"]
 ---
 
 ## Trees of Life
