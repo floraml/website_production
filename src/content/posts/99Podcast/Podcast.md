@@ -84,3 +84,17 @@ width="600"/>
 <sub>Contributors to this episode are Andy Jones, Flora Loughridge and Ulrich Gehmann</sub>
 <br/>
 <br/>
+### Interview with Khalid Kadir: Engineering Social Justice
+
+Podcast co-hosts Flora Loughridge and Ulrich Gehmann speak to Dr Khalid Kadir, a Continuing Lecturer at UC Berkeley and recipient of the 2017 Distinguished Teaching Award, UC Berkeley’s most prestigious honor for teaching. In this episode, we discuss the intersection of poverty, engineering expertise and politics, as well as the complex role that expertise plays in the politics of international development and poverty alleviation. Along the way, we talk about everything from social media and Silicon Valley to resilience, utopia and who is accountable for the social injustice in the technology-focused society we have built.⁣
+
+Press play to listen to the podcast!
+<br/>
+<a href='https://www.idealspaces.org/podcasts/interview-with-khalid-kadir-engineering-social-justice/" 
+target="_blank" >
+<img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202021-02-18%20at%2017.49.32.png?raw=true" 
+width="600"/>
+<img src="https://github.com/floraml/filehosting/blob/master/KKadir.JPG?raw=true" width="600"/>
+</a>
+<br/>
+
