@@ -90,7 +90,7 @@ Podcast co-hosts Flora Loughridge and Ulrich Gehmann speak to Dr Khalid Kadir, a
 
 Press play to listen to the podcast!
 <br/>
-<a href='https://www.idealspaces.org/podcasts/interview-with-khalid-kadir-engineering-social-justice/" 
+<a href="https://www.idealspaces.org/podcasts/interview-with-khalid-kadir-engineering-social-justice/" 
 target="_blank" >
 <img src="https://github.com/floraml/filehosting/blob/master/Screenshot%202021-02-18%20at%2017.49.32.png?raw=true" 
 width="600"/>
